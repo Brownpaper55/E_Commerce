@@ -6,6 +6,7 @@ def cart_summary(request):
 
 def cart_add(request):
     pass
+    if request.POST.get('action') = 'post':
 
 def cart_update(request):
      pass
